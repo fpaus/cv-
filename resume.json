@@ -4,7 +4,7 @@
   "basics": {
     "name": "Fabrizio Dante Pauselli",
     "label": "Software Architect",
-    "image": "avatar.jpeg",
+    "image": "https://fpaus.github.io/cv/avatar.jpeg",
     "email": "fabriziopauselli@gmail.com",
     "phone": "+541196759207",
     "summary": "Architect and Software Developer with 9 years of experience in the field. I have worked in different types of projects, from web applications to mobile applications, always looking for the best solution for the client. I have experience in leading teams and teaching.",
@@ -44,6 +44,27 @@
       ],
       "summary": "Teach classes in different courses on web development.",
       "url": "https://www.linkedin.com/school/coderhouse/",
+      "location": "Argentina"
+    },
+    {
+      "name": "EducacionIT",
+      "position": "Teacher",
+      "startDate": "2023-01",
+      "highlights": ["Teaching the \"Web API .Net Core\" course"],
+      "summary": "Teach classes in different courses on web development.",
+      "url": "https://www.linkedin.com/school/educacionit/",
+      "location": "Argentina"
+    },
+    {
+      "position": "Freelance Developer",
+      "startDate": "2019",
+      "highlights": [
+        "Developed several Web API from scratch for clients",
+        "Migration from .Net Frameworks 4 to .Net Core 5 of an MVC webapp",
+        "Web Scraping of government pages collecting data for a doctoral thesis"
+      ],
+      "summary": "Frontend and Backend development, Webscapping of web pages.",
+      "url": "https://www.linkedin.com/school/educacionit/",
       "location": "Argentina"
     },
     {

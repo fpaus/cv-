@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "init": "resumed init",
-    "start": "resumed --theme jsonresume-theme-elegant  -o ./dist/index.html ",
+    "start": "resumed --theme jsonresume-theme-elegant  -o ./build/index.html ",
     "deploy": "gh-pages -d build",
     "validate": "resumed validate",
     "resumed": "resumed"
